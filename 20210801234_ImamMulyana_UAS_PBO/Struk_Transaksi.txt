@@ -1,0 +1,6 @@
+=======Struk Transaksi Penjualan=======
+No. TRANSAKSI   : TR0003
+Total Bayar     : 500000
+Bayar           : 500000
+Kembalian       : 0
+====================Terimakasih====================
